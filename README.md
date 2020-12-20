@@ -4,4 +4,8 @@ A quick description of your strapi application
 
 ##
 
-start with yarn develop
+start with 
+
+```
+yarn develop
+```
